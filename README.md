@@ -1,6 +1,6 @@
 # LiftMate (WIP)
 
-**LiftMate** is an AI-powered workout companion designed for progressive overload training.  
+**LiftMate** is an workout companion designed for progressive overload training.  
 The goal is to help gym-goers log workouts effortlessly, track long-term progress, and eventually get automated suggestions so they never plateau.
 
 > **Status**: MVP build in progress — targeting Version-1 release by **22–23 Aug 2025**.
