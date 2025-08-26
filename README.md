@@ -3,7 +3,7 @@
 **LiftMate** is an workout companion designed for progressive overload training.  
 The goal is to help gym-goers log workouts effortlessly, track long-term progress, and eventually get automated suggestions so they never plateau.
 
-> **Status**: MVP build in progress — targeting Version-1 release by **22–23 Aug 2025**.
+> **Status**: MVP build in progress — targeting Version-1 release by **30–31 Aug 2025**.
 > **Build-in-public:** https://x.com/SpydeyDev 
 > Applying for Shopify Internship to build in public and accelerate development 
 
